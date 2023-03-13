@@ -1,4 +1,4 @@
-FROM centos:centos7
+FROM centos:centos8
 
 MAINTAINER Couchbase Docker Team <docker@couchbase.com>
 
